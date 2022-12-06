@@ -7,7 +7,7 @@
 </picture>
 
 ## :arrow_forward: CONTRIBUTORS
-:man:  <b>Team Leader </b>:arrow_right:<i>SARAVANA ESWARAN.R.K V</i> <br>
+:man:  <b>Team Leader </b>:arrow_right:<i>SARAVANA ESWARAN.R.K</i> <br>
 :woman:  <b>Team Member-1 </b>:arrow_right:<i>SADAIYAPPAN.S</i>  <br>
 :woman:  <b>Team Member-2 </b>:arrow_right:<i>HARIDHARSANAN.D</i>  <br>
 :woman:  <b>Team Member-3 </b>:arrow_right:<i>KRITHIC.S</i>  
