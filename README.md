@@ -7,10 +7,10 @@
 </picture>
 
 ## :arrow_forward: CONTRIBUTORS
-:man:  <b>Team Leader </b>:arrow_right:<i>SIDHARTH M V</i> : https://github.com/Sidharth-M-V-07 <br>
-:woman:  <b>Team Member-1 </b>:arrow_right:<i>UTHRA  T K </i> : https://github.com/UthraTK <br>
-:woman:  <b>Team Member-2 </b>:arrow_right:<i>NITHYASREE H</i> : https://github.com/Nithyasree9h<br>
-:woman:  <b>Team Member-3 </b>:arrow_right:<i>VALLIAMMAI S</i> : https://github.com/valliammaiselvakumar
+:man:  <b>Team Leader </b>:arrow_right:<i>SARAVANA ESWARAN.R.K V</i> <br>
+:woman:  <b>Team Member-1 </b>:arrow_right:<i>SADAIYAPPAN.S</i>  <br>
+:woman:  <b>Team Member-2 </b>:arrow_right:<i>HARIDHARSANAN.D</i>  <br>
+:woman:  <b>Team Member-3 </b>:arrow_right:<i>KRITHIC.S</i>  
 
 ## :arrow_forward: INTRODUCTION
 Natural Disasters Intensity Analysis and Classification is a simple ML and DL based website which classifies the type of natural disaster and analyses its intensity.
